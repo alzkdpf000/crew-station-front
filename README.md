@@ -79,7 +79,7 @@
 <img width="1450" height="401" alt="KakaoTalk_Photo_2025-10-22-14-54-45" src="https://github.com/user-attachments/assets/51a17e81-2034-431e-8a4e-aef2a7b9a991" />
 
 
-설명  
+  
 ▶ **메인 페이지(웹)**
 -   메인
 -   헤더
